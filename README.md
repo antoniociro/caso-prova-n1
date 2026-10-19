@@ -22,6 +22,7 @@ Repositório didático para demonstrar organização, sanitização, RAG manual,
 
 URL pública do repositório: https://github.com/antoniociro/caso-prova-n1
 
-Durante a prova, faça um commit descritivo no GitHub pessoal e confirme que a versão publicada contém os arquivos deste projeto. Envie o ZIP completo do repositório e o link acima na atividade do Teams.
+Durante a prova, realizei um commit descritivo no meu GitHub pessoal e confirmei que a versão publicada contém os arquivos deste projeto. 
 
-Caso inventado para atividade acadêmica. Não use estes textos para decidir situação real; procure profissional habilitado.
+Enviei o ZIP completo do repositório e o link acima na atividade do Teams.
+
